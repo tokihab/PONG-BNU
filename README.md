@@ -9,7 +9,7 @@ This project simulates the Pong game using assembly language and is designed to 
 
 1. **Mount the directory** (replace `d:\toni\courses\8086PONG` with your actual project path): `mount d d:\toni\courses\8086PONG`
 
-2. **Switch to the mounted drive**: D:
+2. **Switch to the mounted drive**: `D:`
 
 3. **Assemble the program**:
 Run the following command to assemble the program: `masm /a pong.asm`
