@@ -1,9 +1,6 @@
 # PONG-BNU
 This repository features a Pong Game simulation developed using a microprocessor and assembly language. It focuses on real-time control, collision detection, and score tracking, offering practical experience in low-level programming, assembly language, and efficient resource management for embedded systems.
 
-# PONG-BNU
-This repository features a Pong Game simulation developed using a microprocessor and assembly language. It focuses on real-time control, collision detection, and score tracking, offering practical experience in low-level programming, assembly language, and efficient resource management for embedded systems.
-
 ## Pong Game Simulation on DOSBox
 
 This project simulates the Pong game using assembly language and is designed to run on DOSBox. Follow the steps below to run it:
