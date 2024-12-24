@@ -24,7 +24,9 @@ The following command is used to assemble the Pong game code: `masm /a pong.asm`
 
 `pong.asm`: The assembly language source file that contains the instructions for the Pong game.
 
-Press **Enter**, then use **;** to skip error checks. Once it's done, run: `link pong`
+Press **Enter**, then use `;` to skip error checks. Once it's done, run: `link pong` 
+
+Then press `;` to skip again
 
 4. **Run the game**:
 Type pong and press **Enter** to start the game.
